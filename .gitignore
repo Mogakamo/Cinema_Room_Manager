@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/build/classes/java/main/
